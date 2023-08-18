@@ -1,0 +1,13 @@
+a{
+    background-color: red;
+}
+
+a[target]{
+    background-color: yellow;
+}
+
+
+*{
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
